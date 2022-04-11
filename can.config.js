@@ -3,7 +3,7 @@
  */
 const config = {
   collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftaart",
-  title: "Blount County Public Library Images",
+  title: "Rising from the Ashes Artists Collection",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1",
   ],
@@ -15,7 +15,7 @@ const config = {
  */
 const dev = {
   collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftaart",
-  title: "Blount County Public Library Images",
+  title: "Rising from the Ashes Artists Collection",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1",
   ],
