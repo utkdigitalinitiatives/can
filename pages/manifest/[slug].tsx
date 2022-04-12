@@ -7,10 +7,8 @@ import Hero from "../../components/Hero/Hero";
 export default function Manifest({ id, label }) {
   return (
     <Layout>
-      <Hero />
       <section
         style={{
-          maxWidth: "1280px",
           margin: "auto",
           position: "relative",
         }}
