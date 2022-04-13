@@ -2,24 +2,24 @@
  * Configuration built by `npm run build`
  */
 const config = {
-  collection: "https://digital.lib.utk.edu/assemble/collection/collections/bcpl",
-  title: "Blount County Public Library Images",
+  collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftaart",
+  title: "Rising from the Ashes Artists Collection",
   hero: [
-    "https://digital.lib.utk.edu/assemble/manifest/bcpl/185",
+    "https://digital.lib.utk.edu/assemble/manifest/rftaart/1",
   ],
-  metadata: ["Subject", "Place", "Photographer"],
+  metadata: ["Subject", "Artist"],
 };
 
 /**
  * Configuration built by `npm run dev`
  */
 const dev = {
-  collection: "https://digital.lib.utk.edu/assemble/collection/collections/bcpl",
-  title: "Blount County Public Library Images",
+  collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftaart",
+  title: "Rising from the Ashes Artists Collection",
   hero: [
-    "https://digital.lib.utk.edu/assemble/manifest/bcpl/185",
+    "https://digital.lib.utk.edu/assemble/manifest/rftaart/1",
   ],
-  metadata: ["Subject", "Place", "Photographer"],
+  metadata: ["Subject", "Artist"],
 };
 
 
