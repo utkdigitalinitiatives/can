@@ -6,7 +6,7 @@ const CloverIIIF = dynamic(() => import("@samvera/clover-iiif"), {
 
 const options = {
   showTitle: false,
-  showIIIFBadge: false
+  showIIIFBadge: true,
 }
 
 const customTheme = {
