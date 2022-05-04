@@ -9,7 +9,7 @@ const CloverIIIF: React.ComponentType<{ manifestId: string }> = dynamic(
 
 const options = {
   showTitle: false,
-  showIIIFBadge: false,
+  showIIIFBadge: true,
 };
 
 const Viewer = ({ manifestId }) => (
