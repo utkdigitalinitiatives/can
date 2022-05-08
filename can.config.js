@@ -2,7 +2,7 @@
  * Configuration built by `npm run build`
  */
 const config = {
-  collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftaart",
+  collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
   title: "Rising from the Ashes Artists Collection",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1"
@@ -14,7 +14,7 @@ const config = {
  * Configuration built by `npm run dev`
  */
 const dev = {
-  collection: "https://digital.lib.utk.edu/static/iiif/collections/rfta_art.json",
+  collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
   title: "Rising from the Ashes Artists Collection",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1"
