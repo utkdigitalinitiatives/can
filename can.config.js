@@ -3,7 +3,7 @@
  */
 const config = {
   collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
-  title: "Rising from the Ashes Artists Collection",
+  title: "Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1"
   ],
@@ -15,7 +15,7 @@ const config = {
  */
 const dev = {
   collection: "https://digital.lib.utk.edu/assemble/collection/collections/rftacuratedart",
-  title: "Rising from the Ashes Artists Collection",
+  title: "Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art",
   hero: [
     "https://digital.lib.utk.edu/assemble/manifest/rftaart/1"
   ],
